@@ -18,3 +18,4 @@ Currently I have no plans for things after finishing my first vision of this cou
 
 ### Version 0.0.1
 - Finished README.md and the index page of wiki.
+- Finished D&C notes
